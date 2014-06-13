@@ -5,7 +5,7 @@
 Summary:	Old version of the isl Integer Set Library
 Name:		isl10
 Version:	0.12.2
-Release:	1
+Release:	2
 License:	MIT
 Group:		System/Libraries
 Url:		git://repo.or.cz/isl.git
