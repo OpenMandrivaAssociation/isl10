@@ -63,7 +63,7 @@ only.
 
 %prep
 %setup -q -n isl-%{version}
-%apply_patches
+%autopatch -p1
 autoreconf -fi
 
 %build
